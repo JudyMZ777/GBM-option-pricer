@@ -1,5 +1,3 @@
-# streamlit_app.py
-# Geometric Brownian Motion (GBM) option pricer with analytical (Black–Scholes) and Monte Carlo methods
 
 import numpy as np
 import streamlit as st
